@@ -41,8 +41,8 @@ export const mockHighlights: Highlight[] = [
       {
         time: 4,
         description: "Makes a great save",
-        start_time: 5,
-        end_time: 9,
+        start_time: 8,
+        end_time: 10,
       },
     ],
     statistics: { calories_burned: 60, shot_accuracy: 15 },
@@ -81,8 +81,8 @@ export const mockHighlights: Highlight[] = [
       {
         time: 3,
         description: "Scores a point",
-        start_time: 3,
-        end_time: 6,
+        start_time: 7,
+        end_time: 10,
       },
       {
         time: 4,
