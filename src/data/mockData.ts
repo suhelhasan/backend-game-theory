@@ -51,7 +51,7 @@ export const mockHighlights: Highlight[] = [
     sport: "badminton",
     match_type: "1v1", // New field added
     user: "Sudeep", // New field added
-    video_url: "https://example.com/highlight1.mp4",
+    video_url: "https://www.w3schools.com/html/mov_bbb.mp4",
     key_moments: [
       {
         time: 30,
@@ -73,7 +73,7 @@ export const mockHighlights: Highlight[] = [
     sport: "badminton",
     match_type: "2v2", // New field added
     user: "PlayerA", // New field added
-    video_url: "https://example.com/highlight2.mp4",
+    video_url: "https://www.w3schools.com/html/mov_bbb.mp4",
     key_moments: [
       {
         time: 30,
