@@ -76,16 +76,16 @@ export const mockHighlights: Highlight[] = [
     video_url: "https://www.w3schools.com/html/mov_bbb.mp4",
     key_moments: [
       {
-        time: 30,
+        time: 3,
         description: "Player A scores a point",
-        start_time: 0,
-        end_time: 25,
+        start_time: 3,
+        end_time: 6,
       },
       {
-        time: 60,
+        time: 4,
         description: "Player B makes a great save",
-        start_time: 70,
-        end_time: 90,
+        start_time: 5,
+        end_time: 9,
       },
     ],
     statistics: { calories_burned: 80, shot_accuracy: 85 },
